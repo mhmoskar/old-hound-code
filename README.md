@@ -2,7 +2,7 @@
 This is old code for Hound predictor when the server was free - Was Used In Early september
 # How to access commands
 
-⭐ At 100 Stars I will post commands for Mines, Towers and crash
+⭐ At 100 Stars I will post source for Mines, Towers and crash
 
 
 # How to use multiple bots
